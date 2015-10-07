@@ -42,5 +42,19 @@ http://docs.railsbridge.org/intro-to-rails:
     ✔ Step 2: Add a new route for voting @done (15-10-06 09:49)
     ✔ Step 3: Add the button to the view @done (15-10-06 09:49)
     ✔ Step 4: Confirm your changes in the browser @done (15-10-06 09:49)
-      
+  ✔ Redirect To The Topics List After Creating A New Topic @done (15-10-07 15:39)
+    ✔ Step 1: Change the topics controller @done (15-10-07 15:39)
+    ✔ Step 2: Change the topics index view @done (15-10-07 15:39)
+  ✔ Make The Topic Title A Link @done (15-10-07 15:42)
+    ✔ Don't show the description on the list page @done (15-10-07 15:42)
+    ✔ Make the title a link and when it's clicked show the description @done (15-10-07 15:42)
+  ✔ Clean Up Links On The Topics List @done (15-10-07 15:44)
+      ✔ Remove the 'show' link @done (15-10-07 15:44)
+      ✔ Remove the 'edit' link @done (15-10-07 15:44)
+      ✔ Change 'destroy' to 'delete' @done (15-10-07 15:44)
+
+
+
+
+
 
