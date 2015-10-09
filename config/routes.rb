@@ -8,11 +8,12 @@ Rails.application.routes.draw do
   root 'topics#index'
 
   resources :topics do
-    member do 
+    member do
       post :upvote, :downvote
     end
   end
 
+  get 'about' => 'about#index'
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
